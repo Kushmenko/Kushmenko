@@ -8,7 +8,7 @@
 
 
 
-  <img align="left" alt="Kushmenko's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kushmenko&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kushmenko's GitHub Stats" src="https://github-readme-stats.kushmenko.vercel.app/api?username=Kushmenko&show_icons=true&hide_border=true" />
 
 
 
