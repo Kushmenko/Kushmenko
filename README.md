@@ -8,7 +8,7 @@
 
 
 
-  <img align="left" alt="Kushmenko's GitHub Stats" src="https://github-readme-stats.kushmenko.vercel.app/api?username=Kushmenko&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushmenko)](https://github.com/kushmenko/github-readme-stats)
 
 
 
