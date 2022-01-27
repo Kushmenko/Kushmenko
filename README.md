@@ -35,5 +35,5 @@
 
 
 
-[instagram]: https://www.instagram.com/adkuzmenko/
+[instagram]: https://www.instagram.com/adkuzmenko/ (URL){:target="_blank"} 
 [linkedin]: https://www.linkedin.com/in/adkuzmenko/
