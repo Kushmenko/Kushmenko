@@ -1,6 +1,1 @@
-### Hi I'm Andrej [Kuzmenko][linkedin] 👋 
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/adkuzmenko/ 
+### Hi I'm Buddy <3
